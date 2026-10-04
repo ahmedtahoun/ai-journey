@@ -8,7 +8,7 @@ while True:
     if guess == secret: 
        print(f"You win! and got it in {tries} tries!")
        break 
-else: 
-    print("Wrong number! Try again!")
+    else: 
+       print("Wrong number! Try again!")
 
 
